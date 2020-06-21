@@ -6,6 +6,8 @@
 Laravel 7.0 
 Game Control Panel
 
+http://3.12.160.61:7900
+
 2. backend
 
 ExpressJs (Node.JS)
@@ -15,4 +17,6 @@ ExpressJs (Node.JS)
 Nuxt.JS 2.11.0 (VueJS)   
 
 Game Front end
+
+http://3.12.160.61
 
